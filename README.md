@@ -20,11 +20,6 @@ This project demonstrates the development of a scalable e-commerce application w
 **API:** RESTful APIs  
 **Deployment:** (Optional — Vercel / Netlify / Heroku)
 
-## Installation
-```bash
-git clone https://github.com/VYasmeen/AmazonClone.git
-cd AmazonClone
-
 ## The cloned web images  
 ![image](https://github.com/VYasmeen/AmazonClone/assets/70378893/04462499-fec9-487b-8cb0-872c54119a2e)
 ![image](https://github.com/VYasmeen/AmazonClone/assets/70378893/e8b791b9-4604-45fa-8aed-7b0c87e1bdc7)
