@@ -27,14 +27,14 @@ This project demonstrates the development of a scalable e-commerce application w
 
 ## Future Enhancements
 
-Backend scaling and authentication hardening
-Payment gateway integration
-Product reviews and ratings
-Admin dashboard
+- Backend scaling and authentication hardening
+- Payment gateway integration
+- Product reviews and ratings
+- Admin dashboard
 ------
 ## Author
 
-Yasmeen
-Aspiring Data Engineer | GenAI Learner
+- Yasmeen
+- Aspiring Data Engineer | GenAI Learner
 
 
