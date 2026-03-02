@@ -25,14 +25,14 @@ This project demonstrates the development of a scalable e-commerce application w
 ![image](https://github.com/VYasmeen/AmazonClone/assets/70378893/e8b791b9-4604-45fa-8aed-7b0c87e1bdc7)
 ![image](https://github.com/VYasmeen/AmazonClone/assets/70378893/209a1eee-d7c3-4f8f-a64d-8dc99e03a9f5)
 
-##Future Enhancements
+## Future Enhancements
 
 Backend scaling and authentication hardening
 Payment gateway integration
 Product reviews and ratings
 Admin dashboard
-
-##Author
+------
+## Author
 
 Yasmeen
 Aspiring Data Engineer | GenAI Learner
